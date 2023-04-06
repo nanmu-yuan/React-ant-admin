@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"keywords": [],
-	"author": "wluyao",
+	"author": "BLUE",
 	"license": "ISC",
 	"scripts": {
 		"build": "cross-env NODE_ENV=production webpack --config ./config/webpack.prod.conf.js",
